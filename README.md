@@ -1,6 +1,6 @@
 # Coding Club
 
-"Daily" coding challenges.
+Coding challenges.
 
 ---
 
